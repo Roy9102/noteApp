@@ -1,0 +1,18 @@
+{
+  "name": "noteapp",
+  "version": "0.0.1",
+  "description": "a new way about notice",
+  "main": "app.js",
+  "scripts": {
+    "test": "unittest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "29001551@qq.com"
+  },
+  "keywords": [
+    "note"
+  ],
+  "author": "Roy&Liz",
+  "license": "ISC"
+}
